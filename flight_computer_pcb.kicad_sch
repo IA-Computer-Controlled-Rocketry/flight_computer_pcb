@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "1e015264-2038-437f-aea5-57eba228f07a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 100.33 20.32)
+		(size 71.12 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "13e7f786-ea4c-450a-99f4-d946493765db")
+		(property "Sheetname" "flash"
+			(at 100.33 19.6084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/flash.kicad_sch"
+			(at 100.33 72.9746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight_computer_pcb"
+				(path "/1e015264-2038-437f-aea5-57eba228f07a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 81.28)
+		(size 71.12 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "61fab839-93fa-4faf-a787-6f8817718737")
+		(property "Sheetname" "mcu"
+			(at 100.33 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/mcu.kicad_sch"
+			(at 100.33 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight_computer_pcb"
+				(path "/1e015264-2038-437f-aea5-57eba228f07a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 147.32)
+		(size 73.66 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7fc0c0b4-125d-4e55-a511-b3ebca898c12")
+		(property "Sheetname" "barometer"
+			(at 16.51 146.6084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/barometer.kicad_sch"
+			(at 16.51 192.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight_computer_pcb"
+				(path "/1e015264-2038-437f-aea5-57eba228f07a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 81.28)
+		(size 73.66 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "96061410-0a74-43b7-9d64-09a1d855f2b7")
+		(property "Sheetname" "imu"
+			(at 16.51 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/imu.kicad_sch"
+			(at 16.51 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight_computer_pcb"
+				(path "/1e015264-2038-437f-aea5-57eba228f07a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 20.32)
+		(size 72.39 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bceb8339-b55f-45ef-8405-c97133fd1f35")
+		(property "Sheetname" "power"
+			(at 17.78 19.6084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/power.kicad_sch"
+			(at 17.78 72.9746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight_computer_pcb"
+				(path "/1e015264-2038-437f-aea5-57eba228f07a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
